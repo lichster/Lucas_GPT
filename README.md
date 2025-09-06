@@ -70,3 +70,6 @@ A solução foi desenhar um **agente especializado**, moldado pelo meu estilo de
 O agente se tornou uma **extensão digital de produtividade e estratégia**, combinando organização operacional com inteligência crítica.  
 Mais do que um chatbot, ele funciona como um **colega de trabalho digital**, capaz de apoiar decisões, estruturar processos e ampliar minha performance profissional.
 
+---
+<sub>Gratidão a Logun Edé — caminho e equilíbrio.</sub>
+
