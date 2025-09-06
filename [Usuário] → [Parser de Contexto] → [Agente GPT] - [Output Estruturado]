@@ -1,0 +1,13 @@
+
+- **Usuário**: envia comandos, perguntas ou solicitações.  
+- **Parser de Contexto**: interpreta a entrada e aplica regras pré-definidas (tom, formato, persona).  
+- **Agente GPT**: gera a resposta com base em regras de prompt engineering.  
+- **Output Estruturado**: resultado em formato útil (texto, plano de ação, insight).  
+
+## Módulos Funcionais
+1. **Organização**: tarefas, listas, resumos.  
+2. **Produtividade**: geração de relatórios, e-mails, posts.  
+3. **Tomada de Decisão**: análise de cenários e riscos.  
+4. **Desenvolvimento Pessoal**: provocações estratégicas e reflexões.  
+
+---
